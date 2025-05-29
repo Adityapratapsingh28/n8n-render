@@ -8,7 +8,7 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: "true"
       - key: N8N_BASIC_AUTH_USER
-        value: bella009
+        value: adityapratapsingh2803@gmail.com
       - key: N8N_BASIC_AUTH_PASSWORD
         value: Littleboy1#
       - key: WEBHOOK_TUNNEL_URL
