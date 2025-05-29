@@ -21,3 +21,15 @@ services:
         value: production
       - key: GENERIC_TIMEZONE
         value: Asia/Kolkata
+        - key: DB_TYPE
+        value: postgresdb
+      - key: DB_POSTGRESDB_HOST
+        value: dpg-d0sbll3ipnbc738rutcg-a
+      - key: DB_POSTGRESDB_PORT
+        value: "5432"
+      - key: DB_POSTGRESDB_DATABASE
+        value: n8ndb_561w
+      - key: DB_POSTGRESDB_USER
+        value: n8ndb_561w_user
+      - key: DB_POSTGRESDB_PASSWORD
+        value: qMApaDskKtiNbweqBuM6IvCN7QyasMkc
